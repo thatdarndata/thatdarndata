@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brooke from @thatdarndata!
 - 👀 I’m interested in biomedical data science. 👩🏻‍🔬👩🏻‍💻
-- 💞️ I'm passionate about biometrics and diagnostics. 👩🏻‍⚕️
+- 💞️ I'm passionate about biometrics, psychometrics, and diagnostics. 👩🏻‍⚕️
 - 📚 I’m currently learning multivariate time series and network analysis.
 - 📫 Email me at brooke@thatdarndata.com 
 
